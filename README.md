@@ -45,9 +45,9 @@ Psych Engineと変わらないはずです！
 
 ### Psych Engine
 
-* Shadow Mario - Head Developer, Programmer.
+* Shadow Mario - Main Programmer and Head of Psych Engine.
 
-* Riveren - Main Artist.
+* Riveren - Main Artist/Animator of Psych Engine.
 
 ### Special Thanks
 
@@ -66,8 +66,6 @@ Psych Engineと変わらないはずです！
 * EliteMasterEric - Runtime Shaders support and Other PRs.
 
 * MAJigsaw77 - .MP4 Video Loader Library (hxvlc).
-
-* Tahir Toprak Karabekiroglu - Note Splash Editor and Other PRs.
 
 * iFlicky - Composer of Psync, Tea Time and some sound effects.
 
